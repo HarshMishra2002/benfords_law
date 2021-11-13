@@ -6,6 +6,8 @@ I NEVER VALIDATE DATA.
 There could be two reasons for that, Firstly I trust the source of the data too much that checking whether its appropriate or whether it has some parentage of fraud data is 
 never a question. Second reason is that actually there are not too many tools available for it and so here comes the Benford’s Law for you.
 
+So the law is simple. Consider any numerical data and extract its first digit from left, One would be the number occurring the most that is almost 30% of the time and 9 being the least with around 5% appearance.
+
 ![image](https://user-images.githubusercontent.com/65888520/141646241-15fe6af6-487c-46f2-bc27-e5402226bb4b.png)
 
 
